@@ -1,3 +1,4 @@
+// here you'll see how a basic example of using GSAP with React.js
 // packages import
 import React, { useEffect, useRef } from "react";
 import { gsap } from "gsap";
@@ -10,7 +11,7 @@ const New = () => {
   // naming using useRef
   const boxItem = useRef(null);
 
-  // using gsap animations using useEffect
+  // using gsap animations using useEffect, you can see more animations on the official website of GSAP
   useEffect(() => {
     gsap.to(boxItem.current, {
       rotation: "+=360",
