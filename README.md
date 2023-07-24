@@ -13,3 +13,8 @@ prerequisite-
 4) GSAP basics
 
 That's it... if you fulfil all the prerequisites u can get started... but if you don't, learning them first would be beneficial!
+
+
+
+https://github.com/orderlaw/react-usage-with-gsap/assets/102177927/f4e200e5-42d1-44fa-8481-d61b649e4d59
+
